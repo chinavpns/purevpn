@@ -135,7 +135,7 @@ DNS泄露保护也是PureVPN的一大安全亮点，它确保所有DNS请求都�
 
 想要在中国大陆顺利使用PureVPN服务，首先需要正确下载并安装官方客户端。由于中国特殊的网络环境，很多用户在下载过程中可能会遇到各种障碍。别担心，本指南将详细介绍如何在不同设备上成功获取PureVPN客户端，帮你轻松跨过第一道门槛，开启畅通无阻的网络体验。
 
-一、PureVPN电脑端APP下载教程
+**一、PureVPN电脑端APP下载教程**
 
 PureVPN为各种桌面操作系统提供了专业客户端，包括Windows、MacOS和Linux等。为确保你的网络安全和个人隐私，强烈建议通过PureVPN官方渠道下载客户端软件，而非第三方网站。非官方来源下载的客户端可能包含恶意代码，存在数据泄露风险，甚至可能导致你的账号被盗用。
 
@@ -145,7 +145,7 @@ PureVPN为各种桌面操作系统提供了专业客户端，包括Windows、Mac
 * MacOS客户端下载地址：Purevpn.com/download/mac-vpn
 * Linux客户端下载地址：Purevpn.com/download/linux-vpn
 
-二、PureVPN安卓APK下载教程
+**二、PureVPN安卓APK下载教程**
 
 如果你使用的是安卓设备，可以按照以下步骤获取PureVPN应用：
 
@@ -158,7 +158,7 @@ PureVPN为各种桌面操作系统提供了专业客户端，包括Windows、Mac
 
 如果你没有谷歌账号，或者在中国大陆无法正常访问Google Play商店，可以通过"<a href="https://nf.video/BTgSc">银河录像局</a>"这个专业平台购买Google Play账号。有了账号后，就可以按照上述步骤轻松下载PureVPN安卓客户端了。
 
-三、PureVPN iOS APP下载教程
+**三、PureVPN iOS APP下载教程**
 
 iPhone和iPad用户可以通过以下步骤下载PureVPN iOS版应用：
 
