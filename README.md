@@ -67,7 +67,7 @@ PureVPN在全球65个国家部署了6000多台服务器，而且网络覆盖相�
 
 * 解锁地域限制能力
 
-PureVPN在解锁地域限制方面也表现出色。在我们测试期间，它能够成功访问Netflix、Disney+和HBO Max等流媒体平台的地区限制内容，流畅度高，很少出现缓冲情况。对于中国用户常用的AI工具，如ChatGPT和Google Bard，PureVPN提供的IP地址质量较高，能够稳定访问而不会频繁被封。
+PureVPN在解锁地域限制方面也表现出色。在我们测试期间，它能够成功访问Netflix、Disney+和HBO Max等流媒体平台的地区限制内容，流畅度高，很少出现缓冲情况。对于中国用户常用的AI工具，如ChatGPT（查看更多：<a href="https://github.com/chinavpns/chatgpt-plus">ChatGPT Plus充值</a>）和Google Bard，PureVPN提供的IP地址质量较高，能够稳定访问而不会频繁被封。
 
 在音乐流媒体方面，通过PureVPN可以轻松使用Spotify、Apple Music等服务，无论是浏览还是播放都很流畅。社交媒体平台如Facebook、Twitter、Instagram和YouTube等在中国无法直接访问的网站，使用PureVPN后都能正常浏览和互动。即便是对IP质量要求较高的服务，PureVPN也鲜少出现解锁失败的情况，这一点相当令人满意。
 
