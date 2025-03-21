@@ -247,7 +247,7 @@ PureVPN目前不提供完全免费的试用版本。这就意味着你没法在�
 
 在功能适配方面，PureVPN并没有专门针对翻墙回国需求进行优化。它缺乏一些专业<a href="https://github.com/chinavpns/vpnintochina">回国VPN</a>的特色功能，如中国流媒体平台的专用模式、国内游戏加速选项等。这使得用户在使用PureVPN翻墙回国时体验不够顺畅，可能需要自行进行较多设置和调试。
 
-对于经常需要使用中国网络服务的海外用户来说，我们建议选择专门为翻墙回国设计的VPN服务，比如：<a href="https://github.com/chinavpns/speedin-vpn">快帆加速器</a>。这类专业的回国VPN通常有以下优势：
+对于经常需要使用中国网络服务的海外用户来说，我们建议选择专门为翻墙回国设计的VPN服务(比如<a href="https://github.com/chinavpns/speedin-vpn">快帆加速器</a>）。这类专业的回国VPN通常有以下优势：
 
 * 拥有更多的中国大陆节点，覆盖多个城市，方便用户选择最快的连接点；
 * 针对中国网络环境进行了专门优化，连接更稳定，速度更快；
@@ -257,7 +257,7 @@ PureVPN目前不提供完全免费的试用版本。这就意味着你没法在�
 
 尽管如此，如果你只是偶尔需要访问中国网站，或者对网络速度要求不高，PureVPN仍然可以作为一个临时解决方案。如果你已经订阅了PureVPN用于其他目的（如保护隐私或访问国外网站），那么偶尔用来翻墙回国也是一个不错的附加价值。
 
-<p align="center"><a href="https://wallvpn.com/go/purevpn/">立即获取PureVPN</a>或者<a href="https://wallvpn.com/go/speedin/">快帆VPN</a></p>
+<p align="center"><a href="https://wallvpn.com/go/purevpn/">立即获取PureVPN</a>或者<a href="https://wallvpn.com/go/speedin/">立即获取快帆VPN</a></p>
 
 ## PureVPN中国连不上怎么办？
 
