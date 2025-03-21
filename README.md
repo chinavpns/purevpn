@@ -24,7 +24,7 @@
 
 ## PureVPN官网是哪个？
 
-![最新PureVPN中国评测 - PureVPN官网是哪个？](https://raw.githubusercontent.com/chinavpns/purevpn/refs/heads/main/image/PureVPN-1.png)
+![最新PureVPN中国评测 - PureVPN官网是哪个？](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN--8.png)
 
 * PureVPN官方网站：<a href="https://wallvpn.com/go/purevpn/">Purevpn.com</a>
 
