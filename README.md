@@ -141,7 +141,7 @@ DNS泄露保护也是PureVPN的一大安全亮点，它确保所有DNS请求都�
 
 ## 中国大陆下载PureVPN客户端指南
 
-![PureVPN中国评测：中国大陆下载PureVPN客户端指南](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN-8.png)
+![PureVPN中国评测：中国大陆下载PureVPN客户端指南](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN--6.png)
 
 想要在中国大陆顺利使用PureVPN服务，首先需要正确下载并安装官方客户端。由于中国特殊的网络环境，很多用户在下载过程中可能会遇到各种障碍。别担心，本指南将详细介绍如何在不同设备上成功获取PureVPN客户端，帮你轻松跨过第一道门槛，开启畅通无阻的网络体验。
 
@@ -182,6 +182,8 @@ iPhone和iPad用户可以通过以下步骤下载PureVPN iOS版应用：
 需要特别注意的是，从App Store下载PureVPN需要使用美区Apple ID，因为中国区App Store不提供VPN类应用。如果你还没有美区账号，可以通过"<a href="https://nf.video/BTgSc">银河录像局</a>"这个专业平台购买美区Apple ID，然后按照上述步骤顺利下载PureVPN iOS客户端。
 
 ## PureVPN支持几台设备？
+
+![PureVPN中国评测：PureVPN支持几台设备？](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN--7.png)
 
 PureVPN允许用户在最多10台设备上同时使用一个账号。这意味着你可以同时保护自己的手机、平板、笔记本电脑、台式机、智能电视等多种设备，还有剩余的名额给家人使用。如果你是小型办公室的网络管理员，这个数量也足够覆盖几位员工的核心设备。不过需要注意的是，如果你尝试在超过10台设备上同时连接，最早连接的设备会被自动断开。
 
