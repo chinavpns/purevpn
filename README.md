@@ -136,7 +136,7 @@ DNS泄露保护也是PureVPN的一大安全亮点，它确保所有DNS请求都�
 
 ## 中国大陆下载PureVPN客户端指南
 
-![PureVPN中国评测：中国大陆下载PureVPN客户端指南](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN-4.png)
+![PureVPN中国评测：中国大陆下载PureVPN客户端指南](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN-8.png)
 
 想要在中国大陆顺利使用PureVPN服务，首先需要正确下载并安装官方客户端。由于中国特殊的网络环境，很多用户在下载过程中可能会遇到各种障碍。别担心，本指南将详细介绍如何在不同设备上成功获取PureVPN客户端，帮你轻松跨过第一道门槛，开启畅通无阻的网络体验。
 
