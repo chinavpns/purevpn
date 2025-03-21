@@ -34,7 +34,7 @@
 
 ## PureVPN价格是多少？
 
-![最新PureVPN中国评测 - PureVPN价格是多少？](https://raw.githubusercontent.com/chinavpns/purevpn/refs/heads/main/image/PureVPN-Price.png)
+![最新PureVPN中国评测 - PureVPN价格是多少？](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN--2.png)
 
 PureVPN提供几种不同时长的套餐，价格方面总体来说比较亲民。跟大多数VPN一样，订阅时间越长，单月均价就越便宜。目前PureVPN的套餐价格如下：
 
