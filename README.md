@@ -92,7 +92,8 @@ PureVPN提供全天候的在线客服支持，响应速度不错，通常几分�
 
 ## PureVPN安全吗？
 
-![PureVPN中国评测 - PureVPN安全吗？](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN-6.png)
+![PureVPN中国评测 - PureVPN安全吗？](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN--4.png)
+![PureVPN中国评测 - PureVPN安全吗？](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN--5.png)
 
 在选择VPN服务时，安全性无疑是最重要的考量因素之一。毕竟，我们使用VPN的主要目的就是保护网络隐私和数据安全。那么，PureVPN在安全性方面到底表现如何？我们从几个关键角度进行了评估，帮你全面了解这款VPN的安全性能。
 
