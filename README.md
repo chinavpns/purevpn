@@ -78,6 +78,8 @@ PureVPN在解锁地域限制方面也表现出色。在我们测试期间，它�
 
 * **设备兼容性**
 
+![PureVPN怎么样 - 设备兼容性](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN-4.png)
+
 PureVPN在设备支持方面做得相当全面。它为Windows、MacOS、Linux等电脑系统和Android、iOS移动端都提供了专用客户端。这些客户端界面设计简洁直观，即使是技术小白也能轻松上手。
 
 除了常见的电脑和手机设备外，PureVPN还支持智能电视、游戏机和路由器等设备，甚至提供了Chrome和Firefox的浏览器扩展插件。一个PureVPN账号可以同时在10台设备上使用，这个数量比行业平均水平要高，非常适合多人共享账号或者个人有多台设备的情况。
