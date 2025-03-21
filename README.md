@@ -209,6 +209,8 @@ PureVPN目前不提供完全免费的试用版本。这就意味着你没法在�
 
 虽然PureVPN不提供传统意义上的免费试用，但有用户反馈称，在某些特殊促销期间，PureVPN偶尔会提供短期的体验账号，时长通常为7天左右。这类促销活动通常在重大节假日或特殊活动期间推出，不过并不常见，也不能作为稳定的试用渠道。
 
+* 如果你正在寻找可以在中国大陆使用的<a href="https://github.com/chinavpns/freevpn.github.io">免费VPN</a>，请查看：<a href="https://github.com/chinavpns/freevpn.github.io">大陆免费VPN推荐</a>！
+
 ## PureVPN破解版好用吗？
 
 在网上搜索VPN服务时，你可能会看到"PureVPN破解版"、"PureVPN免费版"或"PureVPN永久免费账号"等说法。这些听起来很诱人，毕竟谁不想免费获得优质的VPN服务呢？但这里要明确告诉大家：PureVPN破解版并不好用，而且使用它们存在严重的风险。
