@@ -6,6 +6,23 @@
 
 成立于2007年的PureVPN是一款全球知名且非常老牌的VPN服务商，从香港起家后现已迁至英属维京群岛，至今运营了近20年。PureVPN自称是最好用的<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>和回国VPN之一。但事实真的如此吗？在这篇PureVPN评测中，我们将基于中国实测和收集的众多用户反馈数据，从翻墙稳定性、安全性、连接速度、流媒体解锁能力、价格等多个方面对PureVPN进行全面的评价。此外，我们还会详细地为大家解答包括PureVPN中国能用吗、PureVPN在中国好用吗、PureVPN怎么样、PureVPN安全吗、PureVPN可以翻墙回国吗等常见问题。
 
+<blockquote>
+  <h2 id="本文内容导航">本文内容导航</h2>
+  <h3 id="1-purevpn中国能用吗purevpn在中国好用吗">1. <a href="#purevpn中国能用吗purevpn在中国好用吗">PureVPN中国能用/好用吗？</a></h3>
+  <h3 id="2-purevpn官网是哪个">2. <a href="#purevpn官网是哪个">PureVPN官网是哪个？</a></h3>
+  <h3 id="3-purevpn价格是多少">3. <a href="#purevpn价格是多少">PureVPN价格是多少？</a></h3>
+  <h3 id="4-purevpn怎么样">4. <a href="#purevpn怎么样">PureVPN怎么样？</a></h3>
+  <h3 id="5-purevpn安全吗">5. <a href="#purevpn安全吗">PureVPN安全吗？</a></h3>
+  <h3 id="6-中国大陆下载purevpn客户端指南">6. <a href="#中国大陆下载purevpn客户端指南">大陆下载PureVPN教程</a></h3>
+  <h3 id="7-purevpn支持几台设备">7. <a href="#purevpn支持几台设备">PureVPN支持几台设备？</a></h3>
+  <h3 id="8-purevpn可以免费试用吗">8. <a href="#purevpn可以免费试用吗">PureVPN可以免费试用吗？</a></h3>
+  <h3 id="9-purevpn破解版好用吗">9. <a href="#purevpn破解版好用吗">PureVPN破解版好用吗？</a></h3>
+  <h3 id="10-purevpn可以翻墙回国吗">10. <a href="#purevpn可以翻墙回国吗">PureVPN可以翻墙回国吗？</a></h3>
+  <h3 id="11-purevpn中国连不上怎么办">11. <a href="#purevpn中国连不上怎么办">PureVPN中国连不上怎么办？</a></h3>
+  <h3 id="12-purevpn如何申请退款">12. <a href="#purevpn如何申请退款">PureVPN如何申请退款？</a></h3>
+  <h3 id="13-purevpn中国评测总结purevpn在中国好用吗">13. <a href="#purevpn中国评测总结purevpn在中国好用吗">PureVPN中国评测总结</a></h3>
+</blockquote>
+
 ## PureVPN中国能用吗？PureVPN在中国好用吗？
 
 根据我们长期的跟踪测试和众多中国用户的反馈，PureVPN在中国大部分时间内表现良好，全年连接成功率保持在90%以上。即使在敏感时期，PureVPN团队也能快速更新服务器和优化协议，为中国大陆用户提供稳定的翻墙服务。
