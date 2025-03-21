@@ -54,7 +54,7 @@ PureVPN的退款政策比较有诚意，提供31天无理由退款保证。这�
 
 ## PureVPN怎么样？
 
-![PureVPN中国评测 - PureVPN怎么样？](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN--3.png)
+![PureVPN中国评测 - PureVPN怎么样？](https://raw.githubusercontent.com/chinavpns/purevpn/refs/heads/main/image/PureVPN---3.png)
 
 选择一款VPN服务时，我们最关心的是它能否满足日常使用需求。PureVPN作为市场上的知名VPN服务之一，近年来在中国用户中逐渐获得了不少好评。我们通过实际测试，从几个核心维度来评估PureVPN的实际表现，帮你判断它是否值得购买。
 
