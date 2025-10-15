@@ -1,6 +1,6 @@
 # 最新PureVPN评测：PureVPN中国能用吗？PureVPN怎么样？PureVPN中国连不上怎么办？
 
-<p align="center">最近更新于：2025年9月18日</p>
+<p align="center">最近更新于：2025年10月15日</p>
 
 ![最新PureVPN评测：PureVPN中国能用吗？PureVPN怎么样？PureVPN中国连不上怎么办？](https://github.com/chinavpns/purevpn/blob/main/image/PureVPN--1.png)
 
